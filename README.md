@@ -1,6 +1,8 @@
 # RobustFSIC
 
-This repo have objective which implement FSIC 
+## 2022-12-14
+- This repo is my final project on my course-work Computer Vision
+- Although this code was not clear and but also I am able to not be reproduced the results, but I am going to modify it steadily.
 
 
 
